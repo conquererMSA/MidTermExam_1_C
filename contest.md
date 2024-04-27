@@ -1,0 +1,3 @@
+## Contest_Link:
+
+https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-5/challenges
